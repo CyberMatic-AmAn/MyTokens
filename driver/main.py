@@ -274,19 +274,16 @@ def interactive_mode() -> None:
 
 def main() -> None:
     print(bold(cyan("\n" + "#" * 80)))
-    print(bold(cyan("   MyTokens — Academic Panel Demonstration & Evaluation Driver")))
-    print(bold(cyan("   A Production-Grade, Zero-Dependency Python NLP Tokenizer")))
-    print(bold(cyan("#" * 80)))
 
-    demo_1_split_vs_mytokens()
-    demo_2_detailed_tokens_and_offsets()
-    demo_3_protected_urls_and_emails()
-    demo_4_numbers_and_negative_values()
-    demo_5_contractions()
-    demo_6_multilingual_unicode()
-    demo_7_emojis_and_zwj()
-    demo_8_custom_rules()
-    demo_9_speed_benchmark()
+    # demo_1_split_vs_mytokens()
+    # demo_2_detailed_tokens_and_offsets()
+    # demo_3_protected_urls_and_emails()
+    # demo_4_numbers_and_negative_values()
+    # demo_5_contractions()
+    # demo_6_multilingual_unicode()
+    # demo_7_emojis_and_zwj()
+    # demo_8_custom_rules()
+    # demo_9_speed_benchmark()
 
     # Prompt user/panel if run in an interactive terminal
     if sys.stdin.isatty():

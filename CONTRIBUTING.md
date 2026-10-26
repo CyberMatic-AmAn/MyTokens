@@ -6,8 +6,8 @@ Thank you for your interest in contributing to **MyTokens**! We welcome bug repo
 
 1. Clone the repository and navigate into the root directory:
    ```bash
-   git clone https://github.com/mytokens/mytokens.git
-   cd mytokens
+   git clone https://github.com/CyberMatic-AmAn/MyTokens.git
+   cd MyTokens
    ```
 
 2. Create and activate a virtual environment:

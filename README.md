@@ -1,6 +1,5 @@
 # MyTokens
 
-[![Tests](https://github.com/mytokens/mytokens/actions/workflows/tests.yml/badge.svg)](https://github.com/mytokens/mytokens/actions)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](pyproject.toml)
@@ -34,8 +33,8 @@ pip install mytokens
 Or install locally for development:
 
 ```bash
-git clone https://github.com/mytokens/mytokens.git
-cd mytokens
+git clone https://github.com/CyberMatic-AmAn/MyTokens.git
+cd MyTokens
 pip install -e .[dev]
 ```
 

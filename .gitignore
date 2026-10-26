@@ -67,3 +67,12 @@ venv.bak/
 
 # Antigravity brain / scratch files
 .gemini/
+
+
+# Docs
+docs/
+progress.md
+implementation.md
+context.md
+instructions.md
+CHANGELOG.md
